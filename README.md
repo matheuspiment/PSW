@@ -6,9 +6,9 @@ Repositório para os artefatos produzidos pelos trabalhos realizados na discipli
 
 # Integrantes
 
-* ANTONIO ARLIS SANTOS DA SILVA - 201515565
-* BEATRIZ NOGUEIRA CARVALHO DA SILVEIRA - 201508732 
-* DAVID MATHEUS SANTOS SOUSA - 201503336
-* IGOR QUEIROZ SILVA - 201400632
-* KESLLEY LIMA DA SILVA - 201508737 
-* MATHEUS RIBEIRO PIMENTA NUNES - 201503353
+- [Antonio Arlis Santos da Silva - 201515565](https://github.com/antlisufg)
+- [Beatriz Nogueira Carvalho da Silveira - 201508732](https://github.com/BeatrizN) 
+- [David Matheus Santos Sousa - 201503336](https://github.com/MSSDavid)
+- [Igor Queiroz Silveira - 201400632](https://github.com/igorqsilva)
+- [Keslley Lima da Silva - 201508737](https://github.com/keslleylima) 
+- [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
