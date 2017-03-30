@@ -1,7 +1,6 @@
 # Processo de Software
 
 [![license](https://img.shields.io/github/license/matheuspiment/PSW.svg)](https://github.com/matheuspiment/PSW/blob/master/LICENSE)
-
 Repositório para os artefatos produzidos pelos trabalhos realizados na disciplina.
 
 # Integrantes
