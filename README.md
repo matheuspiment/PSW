@@ -2,7 +2,15 @@
 
 [![license](https://img.shields.io/github/license/matheuspiment/PSW.svg)](https://github.com/matheuspiment/PSW/blob/master/LICENSE)
 
-Repositório para os artefatos produzidos pelos trabalhos realizados na disciplina.
+Projeto de definição e execução de um processo por meio de um projeto.
+
+Processos disponíveis:
+
+* [Gerência de Projeto - GPR](https://github.com/matheuspiment/PSW/blob/master/Processo/Defini%C3%A7%C3%A3o/GPR-Processo.odt)
+* [Gerência de Requisitos - GRE](https://github.com/matheuspiment/PSW/blob/master/Processo/Defini%C3%A7%C3%A3o/GRE-Processo.docx)
+* [Garantia da Qualidade - GQA](https://github.com/matheuspiment/PSW/blob/master/Processo/Defini%C3%A7%C3%A3o/GQA-Processo.docx)
+
+> Artefatos produzidos no contexto da disciplina de Processo de Software.
 
 # Integrantes
 
